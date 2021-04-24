@@ -2,7 +2,8 @@ package main
 
 import (
 	"net/http"
-	"sample-backend/server"
+
+	"github.com/waghvikrant/go-crud-rest/server"
 
 	logger "github.com/sirupsen/logrus"
 )

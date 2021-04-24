@@ -1,8 +1,8 @@
 package persistence
 
 import (
-	"sample-backend/logger"
-	"sample-backend/model"
+	"github.com/waghvikrant/go-crud-rest/logger"
+	"github.com/waghvikrant/go-crud-rest/model"
 	"time"
 
 	logrus "github.com/sirupsen/logrus"

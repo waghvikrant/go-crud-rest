@@ -1,4 +1,4 @@
-module sample-backend
+module github.com/waghvikrant/go-crud-rest
 
 go 1.16
 

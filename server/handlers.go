@@ -5,9 +5,10 @@ import (
 	"io"
 	"io/ioutil"
 	"net/http"
-	"sample-backend/model"
-	"sample-backend/persistence"
 	"strconv"
+
+	"github.com/waghvikrant/go-crud-rest/model"
+	"github.com/waghvikrant/go-crud-rest/persistence"
 
 	"github.com/gorilla/mux"
 	logger "github.com/sirupsen/logrus"
